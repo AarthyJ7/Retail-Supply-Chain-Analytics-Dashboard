@@ -45,3 +45,71 @@ Key data domains include:
 * Customers
 * Markets & Regions
 * Shipping & Delivery Performance
+
+## Dashboard Architecture
+
+The analytics application consists of a homepage and five dedicated dashboards designed to answer key supply chain business questions.
+
+### Home Page
+
+Provides project context, business objectives, key questions, and navigation to individual dashboard modules.
+
+### Executive Overview
+
+Answers: **How efficiently is the retail supply chain operating?**
+
+Key capabilities:
+
+* KPI monitoring
+* Sales and profit tracking
+* Order volume analysis
+* Delivery performance monitoring
+* Sales trend analysis
+
+### Fulfillment Performance
+
+Answers: **Where are delivery delays occurring?**
+
+Key capabilities:
+
+* Regional delivery performance analysis
+* Shipping mode evaluation
+* Delivery variance monitoring
+* Scheduled vs. actual delivery comparison
+* Order status tracking
+
+### Product & Category Performance
+
+Answers: **Which products and categories drive performance?**
+
+Key capabilities:
+
+* Category performance analysis
+* Product profitability evaluation
+* Revenue contribution analysis
+* Order volume assessment
+* Sales versus profit analysis
+
+### Customer & Market Analysis
+
+Answers: **Which customers and markets generate the most value?**
+
+Key capabilities:
+
+* Customer segment evaluation
+* Market contribution analysis
+* Profitability assessment
+* Customer-market relationship analysis
+* Comparative performance monitoring
+
+### Operations Deep Dive
+
+Answers: **What operational bottlenecks require attention?**
+
+Key capabilities:
+
+* Regional operational monitoring
+* Delivery risk assessment
+* Operational scorecards
+* Status distribution analysis
+* Risk concentration identification
