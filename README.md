@@ -21,3 +21,27 @@ Developed a multi-page Tableau analytics application that integrates supply chai
 * Evaluate product and category performance using sales, profit, and order volume metrics
 * Analyze customer segments and market contribution
 * Detect operational bottlenecks through regional performance monitoring and risk analysis
+
+## Tools & Technologies
+
+| Tool       | Purpose                                               |
+| ---------- | ----------------------------------------------------- |
+| PostgreSQL | Database creation, data storage, and analytical views |
+| SQL        | Data preparation, transformation, and aggregation     |
+| Tableau    | Interactive dashboard development and visualization   |
+
+## Dataset
+
+**Source:** Retail Supply Chain Dataset (Kaggle)
+
+The dataset was imported into PostgreSQL, transformed using SQL, and connected to Tableau for dashboard development and analysis.
+
+Key data domains include:
+
+* Orders
+* Sales
+* Profit
+* Products & Categories
+* Customers
+* Markets & Regions
+* Shipping & Delivery Performance
