@@ -30,25 +30,21 @@ Developed a multi-page Tableau analytics application that integrates supply chai
 | SQL        | Data preparation, transformation, and aggregation     |
 | Tableau    | Interactive dashboard development and visualization   |
 
+
 ## Dataset
 
 **Source:** Retail Supply Chain Dataset (Kaggle)
 
-The dataset was imported into PostgreSQL, transformed using SQL, and connected to Tableau for dashboard development and analysis.
+**Dataset Link:** [Dataset_Link](https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset)
 
-Key data domains include:
-
-* Orders
-* Sales
-* Profit
-* Products & Categories
-* Customers
-* Markets & Regions
-* Shipping & Delivery Performance
+The dataset was imported into PostgreSQL, transformed using SQL, and connected to Tableau for interactive dashboard development and analysis.
 
 ## Dashboard Demo
 
-https://github.com/AarthyJ7/Retail-Supply-Chain-Analytics-Dashboard/blob/main/Dashboard_Demo.mp4
+Interactive dashboard walkthrough demonstrating navigation, filtering, KPI analysis, and drill-down capabilities.
+
+**Video:** [Dashboard_Demo.mp4](https://github.com/AarthyJ7/Retail-Supply-Chain-Analytics-Dashboard/blob/main/Dashboard_Demo.mp4)
+
 
 ## Dashboard Architecture
 
