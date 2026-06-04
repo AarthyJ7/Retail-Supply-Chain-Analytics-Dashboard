@@ -35,20 +35,19 @@ Developed a multi-page Tableau analytics application that integrates supply chai
 
 **Source:** Retail Supply Chain Dataset (Kaggle)
 
-**Dataset Link:** [Dataset_Link](https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset)
+**Dataset Link:** [Retail Supply Chain Dataset (Kaggle)](https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset)
 
 The dataset was imported into PostgreSQL, transformed using SQL, and connected to Tableau for interactive dashboard development and analysis.
+
+## Dashboard Architecture
+
+The analytics application consists of a homepage and five dedicated dashboards designed to answer key supply chain business questions.
 
 ## Dashboard Demo
 
 Interactive dashboard walkthrough demonstrating navigation, filtering, KPI analysis, and drill-down capabilities.
 
 **Video:** [Dashboard_Demo.mp4](https://github.com/AarthyJ7/Retail-Supply-Chain-Analytics-Dashboard/blob/main/Dashboard_Demo.mp4)
-
-
-## Dashboard Architecture
-
-The analytics application consists of a homepage and five dedicated dashboards designed to answer key supply chain business questions.
 
 ### Home Page
 
@@ -176,4 +175,4 @@ This approach separates data preparation, business logic, and visualization laye
 
 ## Tableau Workbook
 
-[Retail_Supply_Chain_Dashboard.twbx](Retail_Supply_Chain_Fulfillment_Analytics_Dashboard.twbx)
+[Retail_Supply_Chain_Fulfillment_Analytics_Dashboard.twbx](Retail_Supply_Chain_Fulfillment_Analytics_Dashboard.twbx)
