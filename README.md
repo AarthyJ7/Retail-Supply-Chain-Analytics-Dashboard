@@ -113,3 +113,51 @@ Key capabilities:
 * Operational scorecards
 * Status distribution analysis
 * Risk concentration identification
+
+## Dashboard Preview
+
+### Home Page
+
+Project landing page providing business context, dashboard navigation, and key business questions.
+
+![Home Page](Homepage.png)
+
+---
+
+### Executive Overview
+
+High-level KPI monitoring dashboard focused on overall business performance, sales trends, and delivery metrics.
+
+![Executive Overview](Dashboard1_Executive_Overview.png)
+
+---
+
+### Fulfillment Performance
+
+Operational dashboard designed to identify delivery delays, fulfillment bottlenecks, and shipping performance issues.
+
+![Fulfillment Performance](Dashboard2_Fulfillment_Performance.png)
+
+---
+
+### Product & Category Performance
+
+Product analytics dashboard evaluating category performance, product profitability, and revenue contribution.
+
+![Product & Category Performance](Dashboard3_Product_Category_Performance.png)
+
+---
+
+### Customer & Market Analysis
+
+Customer and market intelligence dashboard highlighting value drivers, segment performance, and profitability.
+
+![Customer & Market Analysis](Dashboard4_Customer_Market_Analysis.png)
+
+---
+
+### Operations Deep Dive
+
+Operational monitoring dashboard focused on regional risk identification, status tracking, and performance management.
+
+![Operations Deep Dive](Dashboard5_Operations_Deep_Dive.png)
