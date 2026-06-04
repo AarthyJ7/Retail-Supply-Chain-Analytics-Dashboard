@@ -46,6 +46,10 @@ Key data domains include:
 * Markets & Regions
 * Shipping & Delivery Performance
 
+## Dashboard Demo
+
+https://github.com/your-repo-path/Dashboard_Demo.mp4
+
 ## Dashboard Architecture
 
 The analytics application consists of a homepage and five dedicated dashboards designed to answer key supply chain business questions.
