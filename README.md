@@ -48,7 +48,7 @@ Key data domains include:
 
 ## Dashboard Demo
 
-https://github.com/your-repo-path/Dashboard_Demo.mp4
+https://github.com/AarthyJ7/Retail-Supply-Chain-Analytics-Dashboard/blob/main/Dashboard_Demo.mp4
 
 ## Dashboard Architecture
 
