@@ -173,3 +173,7 @@ The repository includes:
 * [analytical_views.sql](analytical_views.sql) – Analytical views supporting dashboard reporting and KPI calculations
 
 This approach separates data preparation, business logic, and visualization layers, mirroring common analytics workflows used in production environments.
+
+## Tableau Workbook
+
+[Retail_Supply_Chain_Dashboard.twbx](Retail_Supply_Chain_Fulfillment_Analytics_Dashboard.twbx)
