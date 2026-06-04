@@ -168,8 +168,8 @@ Data was imported into PostgreSQL and transformed using SQL before visualization
 
 The repository includes:
 
-* **database_setup.sql** – Database and table creation scripts
-* **data_import.sql** – Data loading and import processes
-* **analytical_views.sql** – Analytical views supporting dashboard reporting and KPI calculations
+* [database_setup.sql](database_setup.sql) – Database and table creation scripts
+* [data_import.sql](data_import.sql) – Data loading and import processes
+* [analytical_views.sql](analytical_views.sql) – Analytical views supporting dashboard reporting and KPI calculations
 
 This approach separates data preparation, business logic, and visualization layers, mirroring common analytics workflows used in production environments.
